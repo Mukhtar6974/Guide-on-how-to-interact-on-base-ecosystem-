@@ -1,3 +1,4 @@
 The main guide# Guide-on-how-to-interact-on-base-ecosystem-
 I will be documenting a top notch guide on how to intetact with base ecosystem 
 stay glued
+To interact with base ecosystem ,you need a defi wallet to interact
