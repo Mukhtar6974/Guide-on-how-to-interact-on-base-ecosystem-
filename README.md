@@ -3,3 +3,7 @@ I will be documenting a top notch guide on how to intetact with base ecosystem
 stay glued
 Executive summary
 Base is an Ethereum layer (2) Network devloped by coinbase ,it offers a secure , low-cost  and builder -friendly environment for decentralized applications (dapps0)
+Core infastructure and settings 
+To interact with base your wallet be must be configure to the following parameter
+Parameter value 
+Network name : Base Mainnet
