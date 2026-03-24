@@ -6,4 +6,4 @@ Base is an Ethereum layer (2) Network devloped by coinbase ,it offers a secure ,
 Core infastructure and settings 
 To interact with base your wallet be must be configure to the following parameter
 Parameter value 
-Network name : Base Mainnet.
+Network name : Base Mainnet...
