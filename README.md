@@ -10,4 +10,4 @@ Network name : Base Mainnet
 RPC URL https://mainnet.base.org
 Chain ID:Symbol Eth
 Block Explorer Basescan.org
-The Basename identity System Your Basename (eg Zklad.base)
+The Basename identity System Your Basename (eg Zklad.base)...
