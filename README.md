@@ -10,4 +10,5 @@ Network name : Base Mainnet
 RPC URL https://mainnet.base.org
 Chain ID:Symbol Eth
 Block Explorer Basescan.org
-The Basename identity System Your Basename (eg Zklad.base)..
+The Basename identity System Your Basename (eg Zklad.base) is your univeral identity .it replaces complex wallet -to-wallet addresses and is used for onchain reputation: stores your transaction history and humanity verification .
+LIQUIDITY AND FUNDING STRATEGIES 
